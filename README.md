@@ -12,7 +12,7 @@
 <br>
 - زر لعملية الضرب ✖ (MULTIPLICATION)
 <br> 
-- و زر لعملية القسمة ➗ (DIVISION)
+-و زر لعملية القسمة ➗ (DIVISION)
 <br> 
 
 <p align="center">
