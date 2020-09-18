@@ -7,8 +7,10 @@
 <br>
 &#x202b; 2. أجعل النتيحة تظهر في toast 🍞
 <br>
-##  بونص! 
+##  1بونص! 
 أضف زرين تحت زر ADDITION 
+<br>
+- زر لعملية الضرب (MULTIPLICATION)
 <br>
 - زر لعملية الضرب (MULTIPLICATION)
 <br> 
