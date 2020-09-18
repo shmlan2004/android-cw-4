@@ -10,7 +10,6 @@
 <h2>
 بونص1!
 <h2>
-<br>
 أضف زرين تحت زر ADDITION 
 - زر لعملية الضرب (MULTIPLICATION)
 <br> 
