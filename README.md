@@ -16,9 +16,9 @@
 <br>
 أضف زرين تحت زر ADDITION كما هو موضح في الصورة
  <br>
-- زر لعملية الضرب (MULTIPLICATION)
+-زر لعملية الضرب (MULTIPLICATION)
  
-- زر لعملية القسمة  (DIVISION)
+-زر لعملية القسمة  (DIVISION)
 <br>
 
 <p align="center">
