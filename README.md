@@ -11,8 +11,6 @@
 أضف زرين تحت زر ADDITION 
 <br>
 - زر لعملية الضرب (MULTIPLICATION)
-<br>
-- زر لعملية الضرب (MULTIPLICATION)
 <br> 
 -و زر لعملية القسمة ➗ (DIVISION)
 <br> 
