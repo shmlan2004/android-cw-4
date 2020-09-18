@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-<img src = "https://media.discordapp.net/attachments/744582562537668718/756364256403783740/Capture.PNG?width=324&height=670?width=323&height=671" width = ""350 px" margin="auto"/>
+<img src = "https://media.discordapp.net/attachments/744582562537668718/756364256403783740/Capture.PNG?width=323&height=671" width = ""350 px" margin="auto"/>
 </p> 
 <br>
 <hr>
