@@ -13,9 +13,10 @@
 زر لعملية الضرب ✖
 <br> 
 و زر لعملية القسمة ➗
-
+<h2>
 <p align="center">
 <img src = "https://media.discordapp.net/attachments/745956448831275079/755413199079080036/Screen_Shot_2020-09-15_at_4.00.29_PM.png?width=323&height=671" width = ""350 px" margin="auto"/>
+</p> 
 ##  بونص 2!
 تفعيل ازرار البونص الثاني و جعل نتيجتهم تظهر في toast 🍞
 # ملاحظة: 📢
